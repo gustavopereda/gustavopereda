@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Gustavo
-I'm a data scientist who loves turning raw data into powerful insights. I specialize in SQL, A/B testing, machine learning, and building end-to-end solutions.
+I'm a data scientist who loves turning raw data into powerful insights. I specialize in SQL, Big Data, machine learning, and building end-to-end solutions.
 
 ## 🧠 Core Skills
 - SQL (PostgreSQL, BigQuery, joins, CTEs, window functions)
@@ -9,8 +9,11 @@ I'm a data scientist who loves turning raw data into powerful insights. I specia
 
 ## 📁 Projects
 - [E-news Express A/B Test](https://github.com/gustavopereda/ENews-A-B-Test)
+- [ReneWind Model Tuning Machine Learning](https://github.com/gustavopereda/WindTurbine-Maintenance-ML)
 - [INN Hotel Booking Cancellations](https://github.com/gustavopereda/INNNHotels-SupervisedLearning)
 - [ReCell Phone Price Predictor](https://github.com/gustavopereda/Trade-Ahead-UnsupervisedLearning)
+- [FoodHub Exploratory Data Analysis](https://github.com/gustavopereda/FoodHub-Order-Analysis)
+- [EasyVisa Approval Predictor](https://github.com/gustavopereda/EasyVisa-Approval-Predictor)
 
 <!--
 **gustavopereda/gustavopereda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
