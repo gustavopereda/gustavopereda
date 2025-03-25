@@ -8,9 +8,9 @@ I'm a data scientist who loves turning raw data into powerful insights. I specia
 - Machine Learning & Predictive Modeling
 
 ## 📁 Projects
-- [E-news Express A/B Test](https://github.com/yourusername/enews-ab-test)
-- [INN Hotel Booking Cancellations](https://github.com/yourusername/hotel-cancellations-ml)
-- [ReCell Phone Price Predictor](https://github.com/yourusername/recell-price-prediction)
+- [E-news Express A/B Test](https://github.com/gustavopereda/ENews-A-B-Test)
+- [INN Hotel Booking Cancellations](https://github.com/gustavopereda/INNNHotels-SupervisedLearning)
+- [ReCell Phone Price Predictor](https://github.com/gustavopereda/Trade-Ahead-UnsupervisedLearning)
 
 <!--
 **gustavopereda/gustavopereda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
