@@ -8,11 +8,14 @@ I'm a data scientist who loves turning raw data into powerful insights. I specia
 - Machine Learning & Predictive Modeling
 
 ## 📁 Projects
+-- [FoodHub Exploratory Data Analysis](https://github.com/gustavopereda/FoodHub-Order-Analysis)
+-
+-
+-
 - [E-news Express A/B Test](https://github.com/gustavopereda/ENews-A-B-Test)
 - [ReneWind Model Tuning Machine Learning](https://github.com/gustavopereda/WindTurbine-Maintenance-ML)
 - [INN Hotel Booking Cancellations](https://github.com/gustavopereda/INNNHotels-SupervisedLearning)
 - [ReCell Phone Price Predictor](https://github.com/gustavopereda/Trade-Ahead-UnsupervisedLearning)
-- [FoodHub Exploratory Data Analysis](https://github.com/gustavopereda/FoodHub-Order-Analysis)
 - [EasyVisa Approval Predictor](https://github.com/gustavopereda/EasyVisa-Approval-Predictor)
 
 <!--
