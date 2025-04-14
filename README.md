@@ -2,7 +2,7 @@
 I'm a data scientist who loves turning raw data into powerful insights. I specialize in SQL, Big Data, machine learning, and building end-to-end solutions.
 
 ## 🧠 Core Skills
-- SQL (PostgreSQL, BigQuery, joins, CTEs, window functions)
+- SQL (MySQL, BigQuery, joins, CTEs, window functions)
 - Python (Pandas, scikit-learn, NumPy)
 - Data Visualization (Matplotlib, Seaborn, Tableau)
 - Machine Learning & Predictive Modeling
