@@ -10,12 +10,12 @@ I'm a data scientist who loves turning raw data into powerful insights. I specia
 ## 📁 Projects
 - [FoodHub Exploratory Data Analysis](https://github.com/gustavopereda/FoodHub-Order-Analysis)
 - [Trade&Ahead Unsupervised Learning](https://github.com/gustavopereda/Trade-Ahead-UnsupervisedLearning/tree/main) 
--
-- [E-news Express A/B Test](https://github.com/gustavopereda/ENews-A-B-Test)
 - [ReneWind Model Tuning Machine Learning](https://github.com/gustavopereda/WindTurbine-Maintenance-ML)
+- [EasyVisa Approval Predictor](https://github.com/gustavopereda/EasyVisa-Approval-Predictor)
+
+- [E-news Express A/B Test](https://github.com/gustavopereda/ENews-A-B-Test)
 - [INN Hotel Booking Cancellations](https://github.com/gustavopereda/INNNHotels-SupervisedLearning)
 - [ReCell Phone Price Predictor](https://github.com/gustavopereda/Trade-Ahead-UnsupervisedLearning)
-- [EasyVisa Approval Predictor](https://github.com/gustavopereda/EasyVisa-Approval-Predictor)
 
 <!--
 **gustavopereda/gustavopereda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
