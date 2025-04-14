@@ -1,11 +1,23 @@
-# 👋 Hi, I’m Gustavo
-I'm a data scientist who loves turning raw data into powerful insights. I specialize in SQL, Big Data, machine learning, and building end-to-end solutions.
+#  Hello, I'm Gustavo Pereda
 
-## 🧠 Core Skills
-- SQL (MySQL, BigQuery, joins, CTEs, window functions)
-- Python (Pandas, scikit-learn, NumPy)
-- Data Visualization (Matplotlib, Seaborn, Tableau)
-- Machine Learning & Predictive Modeling
+Data Scientist & Business Analyst | Bilingual (English/Spanish)  
+Based in Austin, TX | 🌎 Open to remote work  
+[LinkedIn](https://linkedin.com/in/gustavopereda)
+
+---
+
+##  About Me
+
+I’m a data scientist with a background in media, analytics, and scalable machine learning solutions. I specialize in turning data into actionable insights using Python, SQL, Power BI, and predictive modeling. Whether it's forecasting equipment failure, optimizing customer retention, or clustering investment trends, I bring a business-driven mindset and hands-on technical experience to every project.
+
+Tools I use:
+- Python (Pandas, Scikit-learn, Matplotlib, Seaborn)
+- SQL, MySQL
+- Power BI & Tableau
+- Cloud (GCP, AWS)
+- Machine Learning, A/B Testing, Time Series, Regression, Classification, Clustering
+
+---
 
 ## 📁 Projects
 - [FoodHub Exploratory Data Analysis](https://github.com/gustavopereda/FoodHub-Order-Analysis)
