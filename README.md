@@ -8,7 +8,7 @@ I'm a data scientist who loves turning raw data into powerful insights. I specia
 - Machine Learning & Predictive Modeling
 
 ## 📁 Projects
--- [FoodHub Exploratory Data Analysis](https://github.com/gustavopereda/FoodHub-Order-Analysis)
+- [FoodHub Exploratory Data Analysis](https://github.com/gustavopereda/FoodHub-Order-Analysis)
 -
 -
 -
