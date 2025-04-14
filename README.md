@@ -13,9 +13,8 @@ I'm a data scientist who loves turning raw data into powerful insights. I specia
 - [ReneWind Model Tuning Machine Learning](https://github.com/gustavopereda/WindTurbine-Maintenance-ML)
 - [EasyVisa Approval Predictor](https://github.com/gustavopereda/EasyVisa-Approval-Predictor)
 - [INN Hotel Booking Cancellations](https://github.com/gustavopereda/INNNHotels-SupervisedLearning)
-
-- [E-news Express A/B Test](https://github.com/gustavopereda/ENews-A-B-Test)
 - [ReCell Phone Price Predictor](https://github.com/gustavopereda/Trade-Ahead-UnsupervisedLearning)
+- [E-news Express A/B Test](https://github.com/gustavopereda/ENews-A-B-Test)
 
 <!--
 **gustavopereda/gustavopereda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
