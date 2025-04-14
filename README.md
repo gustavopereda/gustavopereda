@@ -25,7 +25,7 @@ Tools I use:
 - [ReneWind Model Tuning Machine Learning](https://github.com/gustavopereda/WindTurbine-Maintenance-ML)
 - [EasyVisa Approval Predictor](https://github.com/gustavopereda/EasyVisa-Approval-Predictor)
 - [INN Hotel Booking Cancellations](https://github.com/gustavopereda/INNNHotels-SupervisedLearning)
-- [ReCell Phone Price Predictor](https://github.com/gustavopereda/Trade-Ahead-UnsupervisedLearning)
+- [ReCell Phone Price Predictor](https://github.com/gustavopereda/ReCell_Supervised_Learning)
 - [E-news Express A/B Test](https://github.com/gustavopereda/ENews-A-B-Test)
 
 <!--
