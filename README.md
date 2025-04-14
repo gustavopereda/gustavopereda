@@ -9,8 +9,7 @@ I'm a data scientist who loves turning raw data into powerful insights. I specia
 
 ## 📁 Projects
 - [FoodHub Exploratory Data Analysis](https://github.com/gustavopereda/FoodHub-Order-Analysis)
--
--
+- [Trade&Ahead Unsupervised Learning](https://github.com/gustavopereda/Trade-Ahead-UnsupervisedLearning/tree/main) 
 -
 - [E-news Express A/B Test](https://github.com/gustavopereda/ENews-A-B-Test)
 - [ReneWind Model Tuning Machine Learning](https://github.com/gustavopereda/WindTurbine-Maintenance-ML)
