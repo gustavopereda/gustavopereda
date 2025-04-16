@@ -17,6 +17,18 @@ Tools I use:
 - Cloud (GCP, AWS)
 - Machine Learning, A/B Testing, Time Series, Regression, Classification, Clustering
 
+**Languages & Programming:** Python, SQL, R  
+**Data Science Libraries:** Pandas, NumPy, Scikit-learn, XGBoost, SciPy, Seaborn, Matplotlib, SMOTE  
+**Analytics & Visualization:** Power BI (with DAX), Tableau, Google Colab, Jupyter Notebook, Excel  
+**Machine Learning Techniques:**  
+  - Supervised Learning: Linear & Logistic Regression, Random Forest, XGBoost, Gradient Boosting  
+  - Unsupervised Learning: K-Means, Hierarchical Clustering, PCA  
+  - Time-Series Analysis, Predictive Maintenance, Feature Engineering, Classification & Regression  
+**Model Evaluation & Testing:** R², MAPE, F1 Score, Confusion Matrix, ROC Curve, A/B Testing, Hypothesis Testing (Z-Test)  
+**Cloud & Big Data:** AWS, Azure, GCP, Google BigQuery, Hadoop, Spark, Apache Hive, MySQL  
+**Tools & Version Control:** Git, GitHub, VS Code, Microsoft Excel  
+
+
 ---
 
 ## 📁 Projects
